@@ -1,0 +1,35 @@
+/* body{
+    text-align: center;
+}
+#label1
+{
+    font-size:x-large;
+}
+
+#p1
+{
+    font-size: x-large;
+}
+#images
+{
+    text-align: center;
+    font-size: small;
+} */
+
+#main{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bo;
+}
+#button1{
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: rgb(24, 91, 208);
+    color: aliceblue;
+
+}
+#images img {
+    width: 80px;   /* adjust as needed */
+    height: 80px;
+    margin: 5px;
+}
